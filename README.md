@@ -11,6 +11,7 @@
 
 ## Books
 
+- https://www.amazon.com/Doing-Good-Better-Effective-Altruism/dp/1592409660
 - https://www.routledge.com/Tech-For-Good-Imagine-Solving-the-Worlds-Greatest-Challenges/Hoek/p/book/9781032490731
 
 ## Entities
