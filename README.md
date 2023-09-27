@@ -12,6 +12,7 @@
 
 ## Communities
 - [Green coding](https://www.green-coding.berlin/)
+- [Dssg Berlin](https://dssg-berlin.org/)
 
 ## Podcasts
 - Social Sector Stories
