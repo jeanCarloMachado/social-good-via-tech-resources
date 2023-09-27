@@ -15,6 +15,10 @@
 ## Podcasts
 - Social Sector Stories
 
+## Conferences
+
+- [NLP for social good](https://nlp4social.github.io/nlp4socialgood/)
+
 ## Books
 
 - https://www.amazon.com/Doing-Good-Better-Effective-Altruism/dp/1592409660
