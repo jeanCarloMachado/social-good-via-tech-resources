@@ -6,7 +6,11 @@
 - https://socialimpact.github.com/tech-for-social-good/
 - https://www.socialbrite.org/2010/08/05/top-12-platforms-for-social-good/
 
-## Meetups
+## Platforms
+- https://www.openideo.com/
+
+## Communities
+- [Green coding](https://www.green-coding.berlin/)
 
 ## Podcasts
 - https://www.openideo.com/
@@ -15,5 +19,3 @@
 
 - https://www.amazon.com/Doing-Good-Better-Effective-Altruism/dp/1592409660
 - https://www.routledge.com/Tech-For-Good-Imagine-Solving-the-Worlds-Greatest-Challenges/Hoek/p/book/9781032490731
-
-## Entities
