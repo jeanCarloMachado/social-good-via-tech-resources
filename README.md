@@ -13,7 +13,7 @@
 - [Green coding](https://www.green-coding.berlin/)
 
 ## Podcasts
-- https://www.openideo.com/
+- Social Sector Stories
 
 ## Books
 
