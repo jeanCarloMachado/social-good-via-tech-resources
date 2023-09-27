@@ -1,5 +1,7 @@
 # resources-for-social-good
 
+## News sources
+- https://techcrunch.com/tag/social-impact/
 
 ## Reading material
 - https://www.weforum.org/agenda/2023/03/tech-for-good-what-does-it-mean-and-how-can-we-deliver-on-it/
@@ -15,6 +17,7 @@
 - [Dssg Berlin](https://dssg-berlin.org/)
 
 ## Podcasts
+- [Tech for good life](https://open.spotify.com/show/4gVYgayGihu57ybcj2LkJu?si=cba096d105ef4fb5)
 - Social Sector Stories
 
 ## Conferences
