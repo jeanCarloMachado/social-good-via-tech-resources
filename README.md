@@ -8,6 +8,7 @@
 
 ## Platforms
 - https://www.openideo.com/
+- https://www.bonterratech.com/
 
 ## Communities
 - [Green coding](https://www.green-coding.berlin/)
