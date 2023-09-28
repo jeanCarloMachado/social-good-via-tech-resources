@@ -1,4 +1,4 @@
-# resources-for-social-good
+# Resources for social good in tech
 
 ## News sources
 - https://techcrunch.com/tag/social-impact/
