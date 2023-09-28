@@ -2,6 +2,7 @@
 
 ## News sources
 - https://techcrunch.com/tag/social-impact/
+- [Stanford social innovation](https://ssir.org/#)
 
 ## Reading material
 - [Ai for social good guide from google](https://ai.google/education/social-good-guide/?category=responsibility)
