@@ -14,6 +14,7 @@
 - https://www.bonterratech.com/
 - [Digital impact](https://digitalimpact.io/)
 - [DataKind](https://www.datakind.org/)
+- [Quill.org](https://www.quill.org/): Non profit to help students to write better
 
 ## Communities
 - [Green coding](https://www.green-coding.berlin/)
