@@ -1,8 +1,12 @@
 # Resources for social good in tech
 
 ## News sources
-- https://techcrunch.com/tag/social-impact/
+
+
+- [Tech Chrunch social impact tag](https://techcrunch.com/tag/social-impact/)
 - [Stanford social innovation](https://ssir.org/#)
+- [Social good news](https://socialgoodoutpost.com/social-good-news/)
+- [Dial impact aliance](https://dial.global/)
 
 ## Reading material
 - [Ai for social good guide from google](https://ai.google/education/social-good-guide/?category=responsibility)
