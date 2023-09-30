@@ -3,14 +3,15 @@
 ## News sources
 
 
-- [Solutions journalism network](https://www.solutionsjournalism.org/)
 - [ICT works](https://www.ictworks.org/)
+- [Positive news](https://www.positive.news/)
+- [Solutions journalism network](https://www.solutionsjournalism.org/)
 - [Tech Chrunch social impact tag](https://techcrunch.com/tag/social-impact/)
 - [Stanford social innovation](https://ssir.org/#)
 - [Social good news](https://socialgoodoutpost.com/social-good-news/)
 - [Dial impact aliance](https://dial.global/)
 - [Singularity hub](https://singularityhub.com/)
-- [Positive news](https://www.positive.news/)
+
 
 ## Reading material
 - [Ai for social good guide from google](https://ai.google/education/social-good-guide/?category=responsibility)
