@@ -3,6 +3,7 @@
 ## News sources
 
 
+- [Solutions journalism network](https://www.solutionsjournalism.org/)
 - [ICT works](https://www.ictworks.org/)
 - [Tech Chrunch social impact tag](https://techcrunch.com/tag/social-impact/)
 - [Stanford social innovation](https://ssir.org/#)
