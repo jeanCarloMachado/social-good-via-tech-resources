@@ -21,6 +21,7 @@
 
 
 ## Reading material
+- [Impact Boom Podcast - Social Enterprise & Desing](https://open.spotify.com/show/1jCswlDW1L0H42cDjHXIyu?si=306d0c812555492d)
 - [Ai for social good guide from google](https://ai.google/education/social-good-guide/?category=responsibility)
 - https://www.weforum.org/agenda/2023/03/tech-for-good-what-does-it-mean-and-how-can-we-deliver-on-it/
 - https://socialimpact.github.com/tech-for-social-good/
