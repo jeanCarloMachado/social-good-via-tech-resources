@@ -10,6 +10,7 @@
 - [Social good news](https://socialgoodoutpost.com/social-good-news/)
 - [Dial impact aliance](https://dial.global/)
 - [Singularity hub](https://singularityhub.com/)
+- [Positive news](https://www.positive.news/)
 
 ## Reading material
 - [Ai for social good guide from google](https://ai.google/education/social-good-guide/?category=responsibility)
