@@ -20,6 +20,7 @@
 - [How to save the planet](https://open.spotify.com/show/6b18dw3bJdLdj3yW3CETOo?si=c92259e4f8774478)
 - [Tech for good life](https://open.spotify.com/show/4gVYgayGihu57ybcj2LkJu?si=cba096d105ef4fb5)
 - Social Sector Stories
+- [Aggregator](https://player.fm/podcasts/Social-Impact)
 
 
 ## Reading material
