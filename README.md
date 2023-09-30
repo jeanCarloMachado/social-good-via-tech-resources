@@ -13,6 +13,12 @@
 - [Singularity hub](https://singularityhub.com/)
 
 
+## Podcasts
+- How to save the planet
+- [Tech for good life](https://open.spotify.com/show/4gVYgayGihu57ybcj2LkJu?si=cba096d105ef4fb5)
+- Social Sector Stories
+
+
 ## Reading material
 - [Ai for social good guide from google](https://ai.google/education/social-good-guide/?category=responsibility)
 - https://www.weforum.org/agenda/2023/03/tech-for-good-what-does-it-mean-and-how-can-we-deliver-on-it/
@@ -30,10 +36,6 @@
 - [Green coding](https://www.green-coding.berlin/)
 - [Dssg Berlin](https://dssg-berlin.org/)
 
-
-## Podcasts
-- [Tech for good life](https://open.spotify.com/show/4gVYgayGihu57ybcj2LkJu?si=cba096d105ef4fb5)
-- Social Sector Stories
 
 ## Conferences
 
