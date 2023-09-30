@@ -9,6 +9,7 @@
 - [Stanford social innovation](https://ssir.org/#)
 - [Social good news](https://socialgoodoutpost.com/social-good-news/)
 - [Dial impact aliance](https://dial.global/)
+- [Singularity hub](https://singularityhub.com/)
 
 ## Reading material
 - [Ai for social good guide from google](https://ai.google/education/social-good-guide/?category=responsibility)
