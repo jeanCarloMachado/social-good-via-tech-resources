@@ -3,6 +3,7 @@
 ## News sources
 
 
+- [We forum](https://www.weforum.org/agenda/)
 - [ICT works](https://www.ictworks.org/)
 - [Positive news](https://www.positive.news/)
 - [Solutions journalism network](https://www.solutionsjournalism.org/)
