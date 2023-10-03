@@ -64,6 +64,7 @@
 # Tech social good in education
 
 - [Python in education discuss](https://discuss.python.org/c/education/31)
+- [Take action material](https://education.python.org/static/guides/Take-Action-Toolkit.pdf)
 
 ## Funding opportunities
 - Google.org
