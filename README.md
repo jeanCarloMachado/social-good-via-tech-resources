@@ -32,7 +32,7 @@
 - https://www.socialbrite.org/2010/08/05/top-12-platforms-for-social-good/
 
 ## Platforms
-- [Handprint](https://handprint.tech/) a cool platform with tons of scalable tech initiatives and their [podcast](https://open.spotify.com/episode/31NvUqJHEGAUUN46SIoqZA?si=15bb06e164dd4f13)
+- [Handprint](https://handprint.tech/) a cool platform with tons of scalable tech initiatives and the [podcast](https://open.spotify.com/episode/31NvUqJHEGAUUN46SIoqZA?si=15bb06e164dd4f13) i first heard from them
 - https://www.openideo.com/
 - https://www.bonterratech.com/
 - [Digital impact](https://digitalimpact.io/)
