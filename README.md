@@ -12,6 +12,7 @@
 - [Social good news](https://socialgoodoutpost.com/social-good-news/)
 - [Dial impact aliance](https://dial.global/)
 - [Singularity hub](https://singularityhub.com/)
+- [ZDR good news](https://www.zdf.de/nachrichten/thema/good-news-konstruktive-nachrichten-100.html)
 
 
 ## Podcasts
