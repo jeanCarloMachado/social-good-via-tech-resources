@@ -50,6 +50,7 @@
 ## Conferences
 
 - [NLP for social good](https://nlp4social.github.io/nlp4socialgood/)
+- [Annual meeting of the Global Future Councils)(https://www.weforum.org/events/annual-meeting-of-the-global-future-councils-2023/programme?utm_source=sfmc&utm_medium=email&utm_campaign=2814355_Si-public-amgfc23-2&utm_term=&emailType=Strategic%20Intelligence%20Event%20Invitations&ske=MDAxNjgwMDAwMFVJS292QUFI)
 
 ## Books
 
