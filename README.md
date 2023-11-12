@@ -1,7 +1,15 @@
 # Resources for social good in tech
 
-## News sources
 
+
+## Reading material
+- [UN Goals](https://sdgs.un.org/goals)
+- [Ai for social good guide from google](https://ai.google/education/social-good-guide/?category=responsibility)
+- https://www.weforum.org/agenda/2023/03/tech-for-good-what-does-it-mean-and-how-can-we-deliver-on-it/
+- https://socialimpact.github.com/tech-for-social-good/
+- https://www.socialbrite.org/2010/08/05/top-12-platforms-for-social-good/
+
+## News sources
 
 - [We forum](https://www.weforum.org/agenda/)
 - [ICT works](https://www.ictworks.org/)
@@ -26,11 +34,6 @@
 - [Aggregator](https://player.fm/podcasts/Social-Impact)
 
 
-## Reading material
-- [Ai for social good guide from google](https://ai.google/education/social-good-guide/?category=responsibility)
-- https://www.weforum.org/agenda/2023/03/tech-for-good-what-does-it-mean-and-how-can-we-deliver-on-it/
-- https://socialimpact.github.com/tech-for-social-good/
-- https://www.socialbrite.org/2010/08/05/top-12-platforms-for-social-good/
 
 ## Platforms
 - [Handprint](https://handprint.tech/) a cool platform with tons of scalable tech initiatives and the [podcast](https://open.spotify.com/episode/31NvUqJHEGAUUN46SIoqZA?si=15bb06e164dd4f13) i first heard from them
