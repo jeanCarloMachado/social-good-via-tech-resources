@@ -1,13 +1,13 @@
 # Resources for social good in tech
 
 
-
 ## Reading material
 - [UN Goals](https://sdgs.un.org/goals)
 - [Ai for social good guide from google](https://ai.google/education/social-good-guide/?category=responsibility)
 - https://www.weforum.org/agenda/2023/03/tech-for-good-what-does-it-mean-and-how-can-we-deliver-on-it/
 - https://socialimpact.github.com/tech-for-social-good/
 - https://www.socialbrite.org/2010/08/05/top-12-platforms-for-social-good/
+- [Social good tag in github](https://github.com/topics/social-good)
 
 ## News sources
 
@@ -49,6 +49,7 @@
 
 ## Organizations 
 - [Gerando falcoes](https://gerandofalcoes.com/)
+
 
 
 ## Conferences
