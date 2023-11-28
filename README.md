@@ -51,6 +51,9 @@
 - [Gerando falcoes](https://gerandofalcoes.com/)
 
 
+## AI & ML
+
+- [Personal resouces for the DSSG talk](https://docs.google.com/document/d/1xPoY5Ywzn0FRlkuPAbrQ1KdRUbWl5XjECJ0Wda_kepc/edit#heading=h.m7x58pnxozx0)
 
 ## Conferences
 
